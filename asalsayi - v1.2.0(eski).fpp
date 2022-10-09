@@ -57,7 +57,7 @@ id4
 -reserved 1-
 -reserved 2-
 INPUT
-Sayı Giriniz:
+SayÃ½ Giriniz:
 sayi
 
 id11
